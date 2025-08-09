@@ -6,7 +6,7 @@ colorama.init()
 pygame.mixer.pre_init(44100, -8, 2, 256)
 pygame.mixer.init()
 pygame.init()
-print('test')
+
 select = pygame.mixer.Sound("blipSelect.wav")
 dialogue = pygame.mixer.Sound("dialogue.wav")
 hurt = pygame.mixer.Sound("explosion.wav")
@@ -807,4 +807,5 @@ Extra Commands (Not Reccomended for Casual Gameplay):
 
 	#===Auto sync in case force close===#
 	savegame()
+
 
