@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Goblin",
+    "hp": 30,
+    "min_level": 1,
+    "damage": 5
+  },
+  {
+    "name": "Orc",
+    "hp": 50,
+    "min_level": 3,
+    "damage": 10
+  },
+  {
+    "name": "Dragon",
+    "hp": 200,
+    "min_level": 10,
+    "damage": 30
+  }
+]

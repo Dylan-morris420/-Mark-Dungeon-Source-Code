@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Potion",
+    "effect": "heal(10)"
+  },
+  {
+    "name": "GreaterPotion",
+    "effect": "heal(50)"
+  },
+  {
+    "name": "Drugs",
+    "effect": "heal(100)"
+  }
+]
