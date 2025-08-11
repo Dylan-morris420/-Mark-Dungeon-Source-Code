@@ -622,7 +622,7 @@ while True:
 		state = 'gameover'
 	#===GAME STATES===#
 	if state == '0':
-		dialogueanim('''=== MARK DUNGEON BETA V0.0.3 ===
+		dialogueanim('''=== MARK DUNGEON BETA V0.0.4 ===
 
 	1. Explore
 	2. Inventory
@@ -807,5 +807,6 @@ Extra Commands (Not Reccomended for Casual Gameplay):
 
 	#===Auto sync in case force close===#
 	savegame()
+
 
 
